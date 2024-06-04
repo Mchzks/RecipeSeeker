@@ -4,7 +4,7 @@
       :to="{ name: 'home' }"
       class="inline-flex items-center h-full px-5 text-blue-500 font-bold"
     >
-      HOME
+      RECIPE RADAR
     </router-link>
     <div class="flex items-center gap-1">
       <router-link
